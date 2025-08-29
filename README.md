@@ -1,6 +1,6 @@
 ## Este repositório se trata da minha trajetória e estudos.
 
-Atualmente estou estudando programação, comecei com **Java** (alguns acham loucura) e partindo pra uma mudança de carreira, e esse repositório faz parte disso.
+Atualmente estou estudando programação, comecei com **Java** (alguns acham loucura) e para agregar meu conhecimento com novas tecnologias e esse repositório faz parte disso.
 
 Aqui vão acompanhar meus avanços, projetos, estudos e testes.
 
